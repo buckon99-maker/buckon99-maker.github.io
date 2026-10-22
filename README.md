@@ -1,6 +1,6 @@
 # Authentication To HomeAssistant
 
-You can use GitHub Pages to showcase open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website.
+This is a private authentication service for HomeAssistant.
 
 ## Introduction
 
